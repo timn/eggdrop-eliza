@@ -1,0 +1,20 @@
+
+Eggdrop Eliza Extension
+==============================================================================
+
+** Introduction
+Let your bot answer when his name is spoken on the channel.
+
+** Installation
+Please read the file INSTALL.
+
+** Website
+http://www.niemueller.de/software/eggdrop/eliza/
+
+
+Tim Niemueller <tim@niemueller.de>
+Aachen, January 25th 2004
+
+
+$Id: README,v 1.1 2004/01/25 23:00:57 tim Exp $
+
